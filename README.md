@@ -1,4 +1,4 @@
-# _<h1 align="center">Hi 👋, I'm cookie0_o</h1>_
+# _<h1 align="center">Hi, I'm cookie0_o</h1>_
 <h3 align="center">I´m a random dude who makes random python stuff</h3>
 
 
