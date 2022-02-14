@@ -9,10 +9,10 @@
 - ⚡ Fun fact **i´m cool and cringe**
 
 
-
-<p align="left"> <a href="cookie0_o's GitHub stats" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical" alt="cookie0_o's GitHub stats"
-<p align="right"> <a href="cookie0_o" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cookie0o&show_icons=true&locale=en&layout=compact&theme=radical" alt="cookie0_o" /> </p>
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" href="cookie0_o's GitHub stats" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img class="img" href="cookie0_o" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
 
 # **DONATE CRYPTO**
 
