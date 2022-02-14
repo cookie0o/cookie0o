@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <a href="cookie0_o's GitHub stats" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=Gradient" alt="cookie0_o's GitHub stats"
+<p align="left"> <a href="cookie0_o's GitHub stats" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=gradient" alt="cookie0_o's GitHub stats"
 <p align="right"> <a href="cookie0_o" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cookie0o&show_icons=true&locale=en&layout=compact" alt="cookie0_o" /> </p>
 
 ![ ]()
