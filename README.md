@@ -1,9 +1,6 @@
 # _<h1 align="center">Hi, I'm cookie0_o</h1>_
 <h3 align="center">I´m a random dude who makes random python stuff</h3>
 
-
-- 🌱 I’m currently learning **python**
-
 - 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)
 
 - ⚡ Fun fact **i´m cool and cringe**
