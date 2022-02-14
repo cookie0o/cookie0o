@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cookie0o?tab=repositories](https://github.com/cookie0o?tab=repositories)
+- 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)
 
 - ⚡ Fun fact **i´m cool and cringe**
 
