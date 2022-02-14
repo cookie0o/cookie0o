@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm cookie0_o</h1>
+*## <h1 align="center">Hi 👋, I'm cookie0_o</h1>
 <h3 align="center">I´m a random dude who makes random python stuff</h3>
 
 
@@ -26,3 +26,5 @@
 **[CAKE];**``0x1556536283e5d3A8EA790A2d79266ffec9d7d684``  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie0o&label=Profile%20views&color=ff69b4&style=flat" alt="cookie0o" /> </p>
+
+# **PROJECTS I´M WORKING ON;**
