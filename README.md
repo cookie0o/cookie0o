@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **i´m cool and cringe**
 
-<p align="left" img class="img" href="cookie0_o" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical" /> </p>
+<p align="left"> <img class="img" href="cookie0_o" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical" /> </p>
 
 # **DONATE CRYPTO**
 
