@@ -1,7 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm cookie0_o</h1>
 <h3 align="center">I´m a random dude who makes random python stuff</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie0o&label=Profile%20views&color=0e75b6&style=flat" alt="cookie0o" /> </p>
 
 - 🌱 I’m currently learning **python**
 
@@ -13,7 +12,7 @@
 <h3 align="left">my main code language:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cookie0o&show_icons=true&locale=en&layout=compact" alt="cookie0o" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cookie0o&show_icons=true&locale=en&layout=compact" alt="cookie0o" /></p> n\
 
 # DONATE CRYPTO
 
@@ -25,4 +24,4 @@
 [SOL];  **LBrSZa5hcXgTPjrPKrx4Cp6QafpZ98TkwZWfAi6p3o3**
 [CAKE]; **0x1556536283e5d3A8EA790A2d79266ffec9d7d684**
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie0o&label=Profile%20views&color=0e75b6&style=flat" alt="cookie0o" /> </p>
