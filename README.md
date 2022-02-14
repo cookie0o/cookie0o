@@ -11,7 +11,8 @@
 
 
 <p align="right"> <a href="cookie0_o's GitHub stats" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical" alt="cookie0_o's GitHub stats" </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cookie0o&show_icons=true&locale=en&layout=compact" alt="cookie0o"  </a> </p>
+<p align="right"> <a href="cookie0_o" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cookie0o&show_icons=true&locale=en&layout=compact" alt="cookie0_o" </a> </p>
+  
 
 # 
 # **DONATE CRYPTO**
