@@ -2,7 +2,8 @@
 <h3 align="center">I´m a random dude who makes random python stuff</h3>
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)
-- 📧 How to reach me **therealcookie@waifu.club**
+- 📧 How to reach me **therealcookie@waifu.club**#
+[More About me.](https://github.com/cookie0o?tab=repositories)
 
 <p align="left"> <img class="img" href="cookie0_o" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical" /> </p>
 
