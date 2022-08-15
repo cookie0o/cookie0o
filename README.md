@@ -9,7 +9,7 @@
 <p align="left"> <img class="img" href="cookie0_o" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical" /> </p>
   
 # **DONATE;**   
-[**here!**](.github/FUNDING.yml)
+[**here!**](.github/FUNDING.md)
 
 # **PROJECTS I´M WORKING ON;**   
 ![](https://hit.yhype.me/github/profile?user_id=81589649)   
