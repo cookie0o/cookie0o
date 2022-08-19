@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie0o&label=Profile%20views&color=ff69b4&style=flat" alt="cookie0o"/> </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical">
-  <source media="(prefers-color-scheme: light)" srcset="ö">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true">
   <img alt="my github stats">
 </picture>
 
