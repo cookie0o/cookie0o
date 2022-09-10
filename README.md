@@ -3,7 +3,7 @@
 
 - 📧 How to reach me **therealcookie@waifu.club**   
 - 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)   
-- 🌏 More About me [here!](http://cookie0o.ml)  
+- 🌏 More About me [here!](https://cookie0o.ml)  
 
 ## **Donate** [**here!**](.github/FUNDING.md)   
 
