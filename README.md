@@ -1,7 +1,7 @@
  # _<h1 align="center">Hi, I'm cookie0_o</h1>_
 <h3 align="center">I´m a random dude who makes random python stuff</h3>
 
-- 📧 How to reach me **therealcookie@waifu.club** (btw: check you spam folder cuz I always reply!)
+- 📧 How to reach me **therealcookie@waifu.club** (btw: check you spam folder cus I always reply!)
 - 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)   
 - 🌏 More About me [here!](https://cookie0o.ml)  
 
