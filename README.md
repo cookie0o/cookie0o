@@ -3,7 +3,7 @@
 
 - 📧 How to reach me **therealcookie@waifu.club** (btw: check you spam folder cus I always reply!)
 - 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)   
-- 🌏 More About me [here!](https://www.ravbug.com/bsod/bsod7/)  
+- 🌏 More About me [here!](cookie0o.github.io/personal-website/)  
 
 ## **Donate** [**here!**](.github/FUNDING.md)   
 
