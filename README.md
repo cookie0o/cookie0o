@@ -8,7 +8,7 @@
 ## **Donate** [**here!**](.github/FUNDING.md)   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie0o&label=Profile%20views&color=ff69b4&style=flat"/> </p>
-<div style="margin: 0 auto; display: inline">
+<div style="margin: 0 auto; display: flex; justify-content: center;">
     <img style="left: 0; width: 410px;" 
      href="cookie0_o" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical"/>
     <img style="margin-left: 5px; margin-bottom: 2px; width: 410px;" 
