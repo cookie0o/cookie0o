@@ -7,10 +7,12 @@
 
 ## **Donate** [**here!**](.github/FUNDING.md)   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie0o&label=Profile%20views&color=ff69b4&style=flat" alt="cookie0o"/> </p>
-<div style="display: inline;">
-    <img class="img" href="cookie0_o" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical"/>
-    <img style="margin-bottom: 2px;" src="https://card.yuy1n.io/card/76561198870659737/radical,en,badge,badges,games,screenshots"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cookie0o&label=Profile%20views&color=ff69b4&style=flat"/> </p>
+<div style="margin: 0 auto; display: inline">
+    <img style="left: 0; width: 500px" 
+     href="cookie0_o" target="_blank" rel="noreferrer" src="https://github-readme-stats.vercel.app/api?username=cookie0o&show_icons=true&theme=radical"/>
+    <img style="margin-left: 5px; margin-bottom: 2px; width: 500px; border: 1px solid white; border-radius: 5px;" 
+     src="https://card.yuy1n.io/card/76561198870659737/radical,en,badge,badges,games,screenshots"/>
 </div>
 
 # **PROJECTS I´M WORKING ON;**   
