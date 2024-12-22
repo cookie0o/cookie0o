@@ -4,6 +4,6 @@
 - 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)   
 - 🌏 More About me [here!](https://cookie0o.github.io/personal-website/)  
 
-## Languages
+#### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cookie0o&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cookie0o&layout=donut&theme=transparent&hide_title=true&hide_border=true)
