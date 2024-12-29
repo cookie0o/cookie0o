@@ -1,1 +1,5 @@
-<img src="https://github.com/user-attachments/assets/914eb88f-f391-4b9b-ae58-5466a2829e76" alt="Links" usemap="#main">
+<img src="https://github.com/user-attachments/assets/4ef810ca-4cca-4fe9-9514-020c33333b45" alt="Hello world">
+
+- 📧 How to reach me **[raphael.contact@zohomail.eu](mailto:raphael.contact@zohomail.eu)** (use [PGP](https://keys.openpgp.org/search?q=raphael.contact%40zohomail.eu) ❤️)
+- 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)   
+- 🌏 More About me [here!](https://cookie0o.github.io/personal-website/)  
