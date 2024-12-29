@@ -1,5 +1,7 @@
-<img src="https://github.com/user-attachments/assets/19949421-7487-40fb-91ef-e5dc03e5de52" alt="Hello world">
+<img src="https://github.com/user-attachments/assets/914eb88f-f391-4b9b-ae58-5466a2829e76" alt="Links" usemap="#main">
 
-- 📧 How to reach me **[raphael.contact@zohomail.eu](mailto:raphael.contact@zohomail.eu)** (use [PGP](https://keys.openpgp.org/search?q=raphael.contact%40zohomail.eu) ❤️)
-- 👨‍💻 All of my projects are available [here!](https://github.com/cookie0o?tab=repositories)   
-- 🌏 More About me [here!](https://cookie0o.github.io/personal-website/)  
+<map name="main">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
+</map>
