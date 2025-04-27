@@ -4,9 +4,9 @@
 <p>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" alt="Python" height="50" width="50" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg" alt="C" height="50" width="50" />
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/html.svg" alt="HTML" height="50" width="50" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" alt="Javascript" height="50" width="50" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/typescript.svg" alt="Typescript" height="50" width="50" />
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/html.svg" alt="HTML" height="50" width="50" />
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/css.svg" alt="Css" height="50" width="50" />
 </p>
 <p>
