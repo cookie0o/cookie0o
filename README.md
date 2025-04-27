@@ -10,7 +10,8 @@
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/css.svg" alt="Css" height="50" width="50" />
 </p>
 <p>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/svelte.svg" alt="Svelte" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/svelte.svg" alt="Svelte" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/github.png" alt="Github" height="50" width="50" />
 </p>
 
 ## more...
