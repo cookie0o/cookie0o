@@ -1,6 +1,6 @@
 <img src="./398015165-4ef810ca-4cca-4fe9-9514-020c33333b45.png" alt="Welcome image">
 
-## My Tools / Languages
+## My Tools / Languages:
 <a href="https://www.python.org/" target="_blank"><img alt="Python" width="50px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" width="50px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="Javascript" width="50px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" /></a>
