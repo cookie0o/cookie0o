@@ -1,9 +1,11 @@
-## ***CRYPTO;***   
-**XMR**   
-`47Xd1J1r6qc6epXRLf6V88KJYFFHx1E7m1HRnGmHkVCEBiJquaiC7XmSVgH9FgxGXsK58NXVsVN2KfvtTX1AU7wdDWbfcf5󠀠`   
-**BTC**   
-`bc1qz5q86hrj4n983vxey3mxrrd7227ueacdfz56c9󠀠`   
-**ETH**   
-`0x1556536283e5d3A8EA790A2d79266ffec9d7d684`    
-**LTC**   
-`LbnYUMif4PPD1rBGLTWJZ23BQ3jyt884Gn`   
+## ***Please Donate using crypto***   
+
+**XMR ♥️**   
+`84x8RXLoAELeFgUhiohwJTPLXk6kh15yVbrnRnWCDCNAMPRMk1UWPdWB87VM21FDss9pLbDehhzXyaZTsuf8VAr7SmrkRbA`   
+
+**using trocador**   
+[Clearnet link](https://trocador.app/anonpay?ticker_to=btc&network_to=Mainnet&address=bc1qzz6w2zzq3n0ewv5m5gw40c8c2kp82ltnv5zj0z&ref=sqKNYGZbRl&direct=True&description=Thanks+for+your+Donation%21)
+[.onion link](https://trocador.app/anonpay?ticker_to=btc&network_to=Mainnet&address=bc1qzz6w2zzq3n0ewv5m5gw40c8c2kp82ltnv5zj0z&ref=sqKNYGZbRl&direct=True&description=Thanks+for+your+Donation%21)
+
+Raw address:
+`bc1qzz6w2zzq3n0ewv5m5gw40c8c2kp82ltnv5zj0z`
