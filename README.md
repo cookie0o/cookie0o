@@ -15,3 +15,10 @@
 - 📧 **Email**: [raphael.contact@zohomail.eu](mailto:raphael.contact@zohomail.eu) (Use [PGP](https://keys.openpgp.org/search?q=raphael.contact%40zohomail.eu) ❤️)
 - 👨‍💻 **My Projects**: [GitHub Repositories](https://github.com/cookie0o?tab=repositories)   
 - 🌏 **Personal Website**: [cookie0o.github.io](https://cookie0o.github.io/personal-website/)
+
+<br clear="left"/>
+<p>
+  <a href="/.github/FUNDING.md">
+      <img src="https://github.com/cookie0o/cookie0o/blob/d3e8d70995e29f28f7de22319c7ad05702cdd398/donate_btn.png" alt="Donate using crypto" width="170px">
+  </a>
+</p>
