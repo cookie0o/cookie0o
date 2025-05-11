@@ -1,4 +1,4 @@
-<img src="./398015165-4ef810ca-4cca-4fe9-9514-020c33333b45.png" alt="Welcome image">
+<img src="./res/hello.webp" alt="Welcome image">
 
 ## My Tools / Languages:
 <a href="https://www.python.org/" target="_blank"><img alt="Python" width="50px" src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" /></a>
@@ -19,6 +19,6 @@
 <br clear="left"/>
 <p>
   <a href="/.github/FUNDING.md">
-      <img src="https://github.com/cookie0o/cookie0o/blob/d3e8d70995e29f28f7de22319c7ad05702cdd398/donate_btn.png" alt="Donate using crypto" width="170px">
+      <img src="./res/donate_btn.webp" alt="Donate using crypto" width="170px">
   </a>
 </p>
